@@ -22,9 +22,9 @@ namespace FodboldAPI.Repository.Tests
             var newTeam = new FootballTeam
             {
                 Id = 3,
-                Name = "AGF",
-                City = "Aarhus",
-                YearFounded = 1880
+                Name = "HB Køge",
+                City = "Køge",
+                YearFounded = 2009
             };
 
             // Act
