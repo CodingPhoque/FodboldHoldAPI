@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FodboldAPI", "FodboldAPI\FodboldAPI.csproj", "{154E92AF-A48E-4E0C-BAC3-D5618D51719F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FodboldAPITests1", "FodboldAPITests1\FodboldAPITests1.csproj", "{CF4D38CA-03D4-49FA-A48D-64D58BFA2F60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FodboldAPITests", "FodboldAPITests1\FodboldAPITests.csproj", "{CF4D38CA-03D4-49FA-A48D-64D58BFA2F60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
